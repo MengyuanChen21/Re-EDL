@@ -4,6 +4,8 @@
 
 > **Affiliations**: Institute of Automation, Chinese Academy of Sciences
 
+> **Paper**: https://arxiv.org/pdf/2410.00393
+
 ### Dependencies:
 Here we list our used requirements and dependencies.
 Theoretically, the specific versions of dependencies should not affect the performance of the method.
