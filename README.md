@@ -1,4 +1,4 @@
-# [Under Review] Revisiting Essential and Nonessential Settings of Evidential Deep Learning
+# [TPAMI 2025] Revisiting Essential and Nonessential Settings of Evidential Deep Learning
 
 > **Authors**: Mengyuan Chen, Junyu Gao, Changsheng Xu.
 
